@@ -1,0 +1,45 @@
+body
+{
+background-color: white;
+}
+
+
+.a1
+{
+border: 4px solid black;
+width: 20%;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 5%;
+padding: 3%;
+color: white;
+border-radius: 4%;
+background-color: black;
+cursor: pointer;
+	transition: color 0.3 ease;
+
+}
+
+.a2
+{
+border: 4px solid white;
+width: 3%;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 5%;
+padding: 100px;
+color: white;
+border-radius: 50%;
+
+}
+
+
+
+.a1:hover
+{
+	color: red;
+	background-color: grey;
+transform: scale(1.1);
+}
+
+
