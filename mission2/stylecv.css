@@ -7,22 +7,25 @@ padding: 20px;
   border: 2px solid black; 
   border-radius: 8px; 
   text-align: center;  
-  margin: 120px;	
+  margin: 300px;	
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
     }
 
 header {
- width: 1000px; 
+ width: 650px; 
   height: 270px; 
   margin: 50px; 
   padding: 55px; 
   border: 2px solid #2980b9; 
   border-radius: 8px; 
-  text-align: center;  	
+  text-align: center;  
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+
 
     }
 
 .s1 {
-width: 1000px; 
+width: 650px; 
   height: 160px; 
   margin: 50px; 
   padding: 55px; 
@@ -30,42 +33,46 @@ width: 1000px;
   border-radius: 8px; 
   text-align: center; 
   background-color: white;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
 }
 
 .s2 {
-width: 1000px; 
+width: 650px; 
   height: 125px; 
   margin: 50px; 
   padding: 55px; 
   border: 2px solid #2980b9; 
   border-radius: 8px; 
   text-align: center; 
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
 }
 
 .s3 {
-width: 1000px; 
+width: 650px; 
   height: 125px; 
   margin: 50px; 
   padding: 55px; 
   border: 2px solid #2980b9; 
   border-radius: 8px; 
   text-align: center; 
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
 }
 
 .s4	 {
-width: 1000px; 
+width: 650px; 
   height: 125px; 
   margin: 50px; 
   padding: 55px; 
   border: 2px solid #2980b9; 
   border-radius: 8px; 
   text-align: center; 
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
 }
 
 
 .i1 {
   float: left;
-    width: 25%; 
+    width: 50%; 
     background-color: white;
     padding: 20px;
     box-sizing: border-box;
@@ -73,7 +80,7 @@ width: 1000px;
 
 .i2 {
     float: left;
-    width: 40%;
+    width: 50%;
     background-color: white;
     padding: 20px;
     box-sizing: border-box;
@@ -86,8 +93,8 @@ width: 1000px;
     padding: 20px;
     box-sizing: border-box;}
 
-.d1 {float: left;
-    width: 25%; 
+.d2 {float: left;
+    width: 50%; 
     background-color:white;
     padding: 20px;
     box-sizing: border-box;}
@@ -99,7 +106,7 @@ width: 1000px;
     box-sizing: border-box;}
 
 .ex1 {float: left;
-    width: 25%; 
+    width: 50%; 
     background-color: white;
     padding: 20px;
     box-sizing: border-box;}
@@ -111,7 +118,7 @@ width: 1000px;
     box-sizing: border-box;}
 
 .c1 {float: left;
-    width: 25%; 
+    width: 50%; 
     background-color: white;
     padding: 20px;
     box-sizing: border-box;}
@@ -123,7 +130,7 @@ width: 1000px;
     box-sizing: border-box;}
 
 .ec1 {float: left;
-    width: 25%; 
+    width: 50%; 
     background-color: white;
     padding: 20px;
     box-sizing: border-box;}
