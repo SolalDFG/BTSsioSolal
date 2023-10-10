@@ -1,0 +1,142 @@
+body { background-color: white;
+
+
+}
+.div1{ 
+padding: 20px; 
+  border: 2px solid black; 
+  border-radius: 8px; 
+  text-align: center;  
+  margin: 120px;	
+    }
+
+header {
+ width: 1000px; 
+  height: 270px; 
+  margin: 50px; 
+  padding: 55px; 
+  border: 2px solid #2980b9; 
+  border-radius: 8px; 
+  text-align: center;  	
+
+    }
+
+.s1 {
+width: 1000px; 
+  height: 160px; 
+  margin: 50px; 
+  padding: 55px; 
+  border: 2px solid #2980b9; 
+  border-radius: 8px; 
+  text-align: center; 
+  background-color: white;
+}
+
+.s2 {
+width: 1000px; 
+  height: 125px; 
+  margin: 50px; 
+  padding: 55px; 
+  border: 2px solid #2980b9; 
+  border-radius: 8px; 
+  text-align: center; 
+}
+
+.s3 {
+width: 1000px; 
+  height: 125px; 
+  margin: 50px; 
+  padding: 55px; 
+  border: 2px solid #2980b9; 
+  border-radius: 8px; 
+  text-align: center; 
+}
+
+.s4	 {
+width: 1000px; 
+  height: 125px; 
+  margin: 50px; 
+  padding: 55px; 
+  border: 2px solid #2980b9; 
+  border-radius: 8px; 
+  text-align: center; 
+}
+
+
+.i1 {
+  float: left;
+    width: 25%; 
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.i2 {
+    float: left;
+    width: 40%;
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+
+.f1 {float: left;
+    width: 25%; 
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;}
+
+.d1 {float: left;
+    width: 25%; 
+    background-color:white;
+    padding: 20px;
+    box-sizing: border-box;}
+
+.t1 {float: left;
+    width: 25%; 
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;}
+
+.ex1 {float: left;
+    width: 25%; 
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;}
+
+.l1 {float: left;
+    width: 25%; 
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;}
+
+.c1 {float: left;
+    width: 25%; 
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;}
+
+.d1 {float: left;
+    width: 25%; 
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;}
+
+.ec1 {float: left;
+    width: 25%; 
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;}
+
+
+img {
+
+height: 50%;
+max-width: 40% ;
+border-radius: 8px;
+background-color: white;
+color: white;
+padding: 20px;
+border: 2px solid black;
+}
+
