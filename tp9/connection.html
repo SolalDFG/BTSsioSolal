@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Identification</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        div {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        input {
+            margin-bottom: 10px;
+            padding: 8px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #4caf50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Page Identification</h1>
+        <label for="t1">Username:</label>
+        <input type="text" name="t1" id="t1"> 
+        <br>
+        <label for="t2">Password:</label>
+        <input type="password" name="t2" id="t2">
+        <br>
+        <button onclick="connexion2()">Connexion</button>
+        <button>Annuler</button>
+    </div>
+
+    <script>
+        function connexion2() {
+            var username = document.getElementById('t1').value;
+            var password = document.getElementById('t2').value;
+            if (username == "admin" && password == "admin") {
+                window.location.href = "page1.html";
+            } else {
+                window.location.href = "page2.html";
+            }
+        }
+    </script>
+</body>
+</html>
