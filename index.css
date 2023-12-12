@@ -125,7 +125,7 @@ nav > ul > li:hover a{
 .menu-basedonnee .submenu{
     background-color: RGB(230, 100, 40);
 }
-.menu-php.submenu{
+.menu-php .submenu{
     background-color: RGB(230, 100, 40);
 }
 .menu-missions .submenu{
